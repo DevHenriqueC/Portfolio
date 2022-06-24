@@ -187,6 +187,16 @@ nav {
   .fon{
     padding-left: 11%;
   }
+  .sobre{
+    color: white;
+    font-size: 28px;
+    text-align: center;
+    padding-top: 100px;
+  }
+  .sobre1{
+      font-size: 19px;
+    
+  }
 }
 .nav-list.active {
   transform: translateX(0);
