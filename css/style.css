@@ -178,12 +178,8 @@ nav {
   .mobile-menu {
     display: block;
   }
-  .email{
-    padding-left:100px ;
-
-  }
-  .fon{
-    padding-left:100px ;
+  .primeiro{
+    padding-left: 25%;
   }
 }
 .nav-list.active {
